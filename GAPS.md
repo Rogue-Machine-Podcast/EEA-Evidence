@@ -1,0 +1,40 @@
+# GAPS
+
+- **00_COVER_LETTER / Intelligence Break: January 30, 2026**: Lilia Severina, is now employed at ADI Foundation as a 'blockchain specialist.'
+  - Gap: Open-source claim about ADI Foundation employment not present in catalog. Needs external capture or LinkedIn/Google search evidence file.
+- **00_COVER_LETTER_ADDENDUM / Patent Details**: Augmented unification of real and object recognized attributes — USPTO Application 17921018, Grant Date January 14, 2025
+  - Gap: Patent application 17921018 not found in evidence catalog. Needs USPTO filing export if it belongs in curated repo.
+- **08_EVIDENCE_INDEX / A16**: SELECTEL Network Traffic Capture (PCAP), hash: bf81ea0e6df0ec3311bb847ea1dca8db879a0b159a636e195b7f718016d9e526, May 17, 2025
+  - Gap: SELECTEL PCAP hash/file not present in catalog.
+- **08_EVIDENCE_INDEX / E2**: Computer Forensics Lab expert report — Joseph Naghdi — 1 in 2.5 quintillion probability
+  - Gap: Joseph Naghdi expert report itself not found, only instructions and invoice artifacts.
+- **08_EVIDENCE_INDEX / J1**: Severina Kaleidoco 'Blockchain Advisor' — Wayback Machine Oct 2, 2022
+  - Gap: Wayback Machine archive 20221002200427 not found as a discrete file.
+- **05_MISAPPROPRIATION_NARRATIVE / Killer Whales**: Killer Whales Video start at 25:00 — https://x.com/i/status/1970926375109525556
+  - Gap: Only X status URL is given. No local video capture found in catalog.
+- **APPENDIX_C / Chain of Custody Manifests**: SHA-256 hash manifests for all evidence across 5+ locations — COURT_ORDERS_8AUG (22 files), J_H_EML (7 files), CCMC, CLOUD_FBI, CHAIN_EeTUR
+  - Gap: No unified SHA256 manifest bundle found under cited names.
+- **APPENDIX_F / Incident #8: Expert Evidence Trap**: Joseph Naghdi Expert Report (BS-EX1, 15 Nov 2024) — 'high likelihood of deliberate tampering' with 'impossible ZIP timestamps' — judge blocked then demanded expert evidence
+  - Gap: BS-EX1 Joseph Naghdi expert report not found in catalog.
+- **APPENDIX_G / IP Poisoning Operation**: Victor Chombo executed IP poisoning attack May 16-17, 2024 via external Google Drive — files created 2 years prior to 2REAL's existence
+  - Gap: Google Drive metadata analysis artifact for Victor Chombo not found.
+- **APPENDIX_H / Constantine Law Client Account**: Constantine Law Limited, Barclays Bank, Account 93987701, Sort Code 20-32-06 — selective payment anomaly: accepted costs March 2025, refused August 2025
+  - Gap: FI1 Constantine Law bank details email not found by cited label.
+- **APPENDIX_H / Amended Defence Admission**: Paragraph 47D: 'The Defendant accepts the confidential know-how and IP comprised in 2Real, which emanated from FPH, remains that of the Claimant.'
+  - Gap: Draft Amended Defence copy not found under FI2 label.
+- **APPENDIX_J / Paragraph 47D — The IP Ownership Admission**: The Defendant accepts the 'confidential know-how' and 'IP' comprised in 2Real, which emanated from FPH, remains that of the Claimant.
+  - Gap: AD3 Draft Amended Defence PDF not found under cited name.
+- **APPENDIX_N / Discovery**: Lilia Severina — Strategic Leader | AI, Web3, Robotics | FSI — ADI Foundation — verified via Google search January 30, 2026
+  - Gap: Google search result screenshot for ADI Foundation profile not found as a local file.
+- **APPENDIX_N / ADGM Convergence**: November 24, 2025 — Animoca Brands received in-principle approval from ADGM to operate as regulated fund manager
+  - Gap: ADGM in-principle approval artifact not found in catalog.
+- **APPENDIX_O / Section 1: French Server**: Azure France Central servers: PA7P264CA0170.FRAP264.PROD.OUTLOOK.COM and frpc14mb7721.frprd14.prod.outlook.com — shared across all 3 personas
+  - Gap: Specific header-analysis files 75167.eml, 35217.eml, 336267.eml, 331749.eml not found.
+- **02_VICTIM_BACKGROUND / GCHQ Confrontation**: National Technical Assistance Centre (NTAC) demanded encryption keys under RIPA warrant signed by Home Secretary — Spector shut down PrivateSky rather than build backdoor
+  - Gap: PrivateSky/NTAC source document not found in evidence catalog.
+- **02_VICTIM_BACKGROUND / Intelligence Online Report**: MIRACL 'sold technology to GCHQ and the US Air Force' and was 'expected to be one of main beneficiaries of protection against foreign takeovers'
+  - Gap: Intelligence Online report not found in evidence catalog.
+- **06_FOREIGN_GOVERNMENT_NEXUS / Abu Dhabi Nexus**: Sheikh Tahnoon controls BOTH: MGX → Binance ($2B) → CoinMarketCap → Killer Whales AND IHC → ADI Foundation → Severina deploying stolen IP
+  - Gap: No local evidence file tying MGX/CoinMarketCap/Killer Whales and ADI Foundation together was found.
+- **06_FOREIGN_GOVERNMENT_NEXUS / Animoca US Subsidiaries**: nWay Inc. (SF), Quidd Inc. (Brooklyn), Pixowl Inc. (SF), Animoca Brands SPV (Dover, DE) — SEC Form D filed March 2022 CIK: 0001916077
+  - Gap: SEC Form D for Animoca US subsidiaries not found in catalog.
