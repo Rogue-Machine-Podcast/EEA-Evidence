@@ -1,10 +1,10 @@
 CRIMINAL REFERRAL EVIDENCE PACKAGE
-Copyright (c) 2026 Brian Spector and Nicola McNamee. All rights reserved.
+Copyright (c) 2026 Brian Spector and Rogue Machine podcast. All rights reserved.
 
 This repository constitutes a criminal referral evidence package submitted to
-Congressman Cloud's office in February 2026. All materials, including documents, source files,
+Congressman Cloud's office in February 2026. All materials including [https://github.com/Rogue-Machine-Podcast/EEA-Victim-Referral](source documents), source files,
 forensic images, medical records, and email evidence, are the intellectual
-property of Brian Spector and Nicola McNamee.
+property of Brian Spector and Rogue Machine podcast.
 
 Licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 International License (CC BY-NC-ND 4.0).
@@ -15,8 +15,7 @@ You are free to:
 
 Under the following terms:
 
-  Attribution -- You must give appropriate credit to Brian Spector and
-  Nicola McNamee, provide a link to this repository, and indicate if
+  Attribution -- You must give appropriate credit to Brian Spector and Rogue Machine podcast, provide a link to this repository, and indicate if
   any changes were made. You may do so in any reasonable manner, but
   not in any way that suggests the licensors endorse you or your use.
 
