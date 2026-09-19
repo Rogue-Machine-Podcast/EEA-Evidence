@@ -2,7 +2,7 @@ CRIMINAL REFERRAL EVIDENCE PACKAGE
 Copyright (c) 2026 Brian Spector and Rogue Machine podcast. All rights reserved.
 
 This repository constitutes a criminal referral evidence package submitted to
-Congressman Cloud's office in February 2026. All materials including (victim referral document)[https://github.com/Rogue-Machine-Podcast/EEA-Victim-Referral], source files,
+Congressman Cloud's office in February 2026. All materials including [victim referral document](https://github.com/Rogue-Machine-Podcast/EEA-Victim-Referral), source files,
 forensic images, medical records, and email evidence, are the intellectual
 property of Brian Spector and Rogue Machine podcast.
 
